@@ -1,6 +1,7 @@
 # NeuroNotes
 flashcard system designed to enhance your learning experience by utilizing LangGraph for content generation and spaced repetition algorithms. Whether you're studying for exams, learning a new language, or exploring a new subject, FlashLearner provides an efficient and effective way to create and use flashcards.
 
+
 ![Untitled Diagram Jan 25 2025](https://github.com/user-attachments/assets/3da4c94b-5113-4fd6-96b5-e04d27a68488)
 
 Here's a proposed project structure with frameworks and sections:
